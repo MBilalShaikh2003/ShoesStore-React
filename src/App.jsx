@@ -11,6 +11,7 @@ import {
 import Adult from './components/Adult'
 import Home from './components/Home'
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
 import './App.css'
 import Footer from "./components/Footer";
 
